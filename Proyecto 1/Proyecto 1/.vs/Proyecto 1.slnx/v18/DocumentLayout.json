@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|c:\\users\\sena\\source\\repos\\proyecto 1\\tallerparte2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|solutionrelative:tallerparte2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|c:\\users\\sena\\source\\repos\\proyecto 1\\taller.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|solutionrelative:taller.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|c:\\users\\sena\\source\\repos\\proyecto 1\\tallerparte2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|solutionrelative:tallerparte2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|c:\\users\\sena\\source\\repos\\proyecto 1\\taller.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|solutionrelative:taller.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|c:\\users\\sena\\source\\repos\\proyecto 1\\tallerparte2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6AB790C-7F16-4EA9-8EEA-498EEAFADA34}|Proyecto 1.csproj|solutionrelative:tallerparte2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taller.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Taller.aspx.cs",
+              "RelativeDocumentMoniker": "Taller.aspx.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Taller.aspx.cs",
+              "RelativeToolTip": "Taller.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:36:42.009Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tallerparte2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Tallerparte2.aspx.cs",
+              "RelativeDocumentMoniker": "Tallerparte2.aspx.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Tallerparte2.aspx.cs",
+              "RelativeToolTip": "Tallerparte2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T15:29:16.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tallerparte2.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Tallerparte2.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Tallerparte2.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Tallerparte2.aspx.designer.cs",
+              "RelativeToolTip": "Tallerparte2.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T15:26:10.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tallerparte2.aspx",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Tallerparte2.aspx",
+              "RelativeDocumentMoniker": "Tallerparte2.aspx",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Tallerparte2.aspx",
+              "RelativeToolTip": "Tallerparte2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-09T15:24:17.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taller.aspx",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Taller.aspx",
+              "RelativeDocumentMoniker": "Taller.aspx",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\Proyecto 1\\Taller.aspx",
+              "RelativeToolTip": "Taller.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-09T12:53:14.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
